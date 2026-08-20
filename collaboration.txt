@@ -1,1 +1,2 @@
+Feature 1: Git collaboration workflow
 Feature 2: GitHub team collaboration workflow
